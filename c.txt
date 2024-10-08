@@ -1,0 +1,1 @@
+Artificial intelligence encompasses various fields, including machine learning, which focuses on utilizing statistical methods to allow computers to learn from data. This technology is applied in areas such as finance and autonomous vehicles.

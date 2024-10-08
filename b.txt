@@ -1,0 +1,2 @@
+Machine learning is a subset of artificial intelligence that employs statistical methods to enable systems to learn from data. Its applications are diverse, spanning finance, healthcare, and self-driving cars.
+ 
