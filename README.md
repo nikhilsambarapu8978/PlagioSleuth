@@ -2,19 +2,6 @@
 
 PlagioSleuth is a Python-based plagiarism detection tool that helps users identify similarities between text documents using **cosine similarity**. Whether you're a student checking your assignments or a teacher reviewing submissions, PlagioSleuth provides an easy and efficient way to ensure originality in written work.
 
-## Table of Contents
-
-- [How It Works](#how-it-works)
-- [Getting Started](#getting-started)
-- [Dependencies](#dependencies)
-- [Running the App](#running-the-app)
-- [Output Examples](#output-examples)
-- [Features](#features)
-- [Explore It](#explore-it)
-- [Issues](#issues)
-- [Contributing](#contributing)
-- [License](#license)
-- [Credits](#credits)
 
 ## How It Works
 
@@ -45,6 +32,7 @@ python app.py
 
 ## Output Examples
 
+```bash
 All Plagiarism Results:
 Files: b.txt and c.txt - Plagiarism Percentage: 28.20%
 Files: a.txt and c.txt - Plagiarism Percentage: 37.86%
@@ -55,6 +43,7 @@ Files: a.txt and b.txt - Plagiarism Percentage: 41.71%
 
 Least Plagiarized Files:
 Files: b.txt and c.txt - Plagiarism Percentage: 28.20%
+```
 
 ## Features
 Detects plagiarism in multiple text documents.
