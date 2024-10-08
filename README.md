@@ -54,7 +54,7 @@ Highlights the most and least plagiarized files for easy identification.
 Feel free to explore and modify PlagioSleuth to fit your specific use case. For any questions or suggestions, you can reach me at nikhilsa562@gmail.com.
 
 ## Issues
-If you encounter any issues while using PlagioSleuth, please open an issue on the GitHub repository. Your feedback is invaluable for improving the tool.
+If you encounter any issues while using PlagioSleuth, please open an issue on the GitHub repository. Your feedback is valuable for improving the tool.
 
 ## Contributing
 Contributions are welcome! If you have suggestions for improvements or new features, feel free to submit a pull request.
